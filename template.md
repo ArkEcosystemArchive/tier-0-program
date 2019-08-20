@@ -29,4 +29,6 @@ To deliver the project your PR must be submitted to the respective repo. ARK rep
 
 Once your project is approved as complete a member of the ARK team will follow up to discuss payment. You’ll need to submit an invoice and payment will be issued in (Ѧ) ARK (equivalent to the USD reward value assigned to the project), sent to an address of your choosing. We may need to request additional information regarding your identity in order to comply with our own internal Know Your Customer (KYC) guidelines.
 
+**By applying for this project you agree to the ARK Tier 0 terms and conditions outlined on this link: https://ark.io/tier-0-terms.**
+
 _If you’re unsuccessful in applying for this particular project, please consider applying for others. Thanks for your interest and good luck with your application!_
