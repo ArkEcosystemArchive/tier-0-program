@@ -21,7 +21,7 @@ To apply for this project, please read more about the process below before leavi
 
 **The Process**
 
-Applicant’s will only be permitted to participate in one Tier 0 project at any one time. You can apply for as many projects as you like, but will not be eligible to be accepted until your open projects have been completed. In the meantime the projects may be awarded to other available applicants.
+Applicants will only be permitted to participate in one Tier 0 project at any one time. You can apply for as many projects as you like, but will not be eligible to be accepted until your open projects have been completed. In the meantime the projects may be awarded to other available applicants.
 
 If your application for the project is successful we’ll contact you using the details you provided, assign the project to you and mark it as in progress. You’ll be required to check in regularly with the ARK team to discuss progress and development. We’ll also use these updates to ensure that the PR is being completed to a satisfactory standard. If we determine that the project isn’t being completed to a satisfactory standard and that this cannot be achieved with minor amends or within a satisfactory timeframe, we hold the right to dismiss the PR and reopen the project to other applicants.
 
